@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DELL/PycharmProjects/datascience_project/mlruns/0/models/m-cac2bcb4df74404fb40e926d23704272/artifacts
+creation_timestamp: 1753202885954
+experiment_id: '0'
+last_updated_timestamp: 1753202897369
+model_id: m-cac2bcb4df74404fb40e926d23704272
+model_type: null
+name: model
+source_run_id: dfc3e7fbfd974a80a8f35d1d1b27a085
+status: 2
+status_message: null
